@@ -62,6 +62,7 @@ body::-webkit-scrollbar{
     margin: 0 auto;
 }
 .carousel-inner{
+    width:100%;
     display:flex;
     justify-content: center;
 .carousel-item img{
