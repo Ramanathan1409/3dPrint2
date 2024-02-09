@@ -124,7 +124,7 @@ body::-webkit-scrollbar{
 .about p{
     text-align: center;
     font-size: larger;
-    margin: 30px;
+/*     margin: 30px; */
 }
 .this{
     margin:0 auto;
