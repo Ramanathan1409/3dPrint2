@@ -61,6 +61,8 @@ body::-webkit-scrollbar{
     /* margin: 0px auto; */
     margin: 0 auto;
 }
+.carousel-inner{
+    margin:0 auto;
 .carousel-item img{
     height: 300px;
     width: 450px !important;
