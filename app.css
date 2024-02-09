@@ -58,7 +58,7 @@ body::-webkit-scrollbar{
     /* margin-right: 40px !important; */
     /* width: 100% !important; */
     display: flex;
-    /* margin: 0px auto; */
+    margin: 0px auto;
     margin: 0 auto;
 }
 .carousel-inner{
